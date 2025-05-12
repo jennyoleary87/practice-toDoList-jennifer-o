@@ -1,0 +1,24 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+header {
+  color: bisque;
+  font-size: larger;
+  font-family: fantasy;
+}
+
+ul {
+  color: coral;
+  list-style-type: "\1F4CD";
+  padding: 2rem;
+}
+
+li:hover {
+  font-family: cursive;
+  font-size: xx-large;
+  background-color: aquamarine;
+}
